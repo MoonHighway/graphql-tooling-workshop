@@ -20,6 +20,10 @@ Welcome to the online GraphQL tooling workshop! We're really glad that you're he
 
 - [TypeScript & Apollo CLI - Finished Project + Step by Step](https://github.com/graphqlworkshop/snowtooth-typescript)
 - [Snowtooth API](https://snowtooth.moonhighway.com)
+- [Lift Manager Sample Client Code](https://github.com/eveporcello/lift-manager/blob/master/src/index.js)
+- [Lift Manager Website](https://lift-manager.netlify.com)
+- [Big Basin Sample Client Code](https://github.com/eveporcello/big-basin/blob/master/src/index.js)
+- [Big Basin Website](https://big-basin.netlify.com)
 - [Snowtooth Project Repo](https://github.com/moonhighway/snowtooth)
 - [Client Side Mocking - CodeSandbox](https://codesandbox.io/s/client-mocking-epqmp)
 - [Apollo REST Data Sources](https://github.com/MoonHighway/countries-datasources)
